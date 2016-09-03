@@ -1,7 +1,7 @@
 # ProjetoIBNCC
 This is a basic project, of the site to IBNCC - Projeto básico para o projeto da IBNCC.
 Requisitos ibncc
-	Descrição do Site{
+	# Descrição do Site{
 		Site básico, para a divulgação de eventos da igreja, o site básicamente terá:
 		Home - Eventos - Palavra da Semana - Projetos - Fotos e Videos - Ministérios - Contato - Nos Ajude
 		sendo que o HOME: 
